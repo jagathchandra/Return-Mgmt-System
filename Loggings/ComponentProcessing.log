@@ -1,0 +1,239 @@
+INFO  09:05:59 Application started. Press Ctrl+C to shut down.
+INFO  09:05:59 Application started. Press Ctrl+C to shut down.
+INFO  09:05:59 Hosting environment: Development
+INFO  09:05:59 Hosting environment: Development
+INFO  09:05:59 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  09:05:59 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+ERROR 09:05:59 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - ComponentProcessingAPIProject.Controllers.ProcessController.GetAllDetails (ComponentProcessingAPIProject). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:05:59 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - ComponentProcessingAPIProject.Controllers.ProcessController.GetAllDetails (ComponentProcessingAPIProject). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  09:07:45 Application started. Press Ctrl+C to shut down.
+INFO  09:07:45 Application started. Press Ctrl+C to shut down.
+INFO  09:07:45 Hosting environment: Development
+INFO  09:07:45 Hosting environment: Development
+INFO  09:07:45 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  09:07:45 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+ERROR 09:07:46 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - ComponentProcessingAPIProject.Controllers.ProcessController.GetAllDetails (ComponentProcessingAPIProject). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:07:46 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - ComponentProcessingAPIProject.Controllers.ProcessController.GetAllDetails (ComponentProcessingAPIProject). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  09:09:04 Application started. Press Ctrl+C to shut down.
+INFO  09:09:04 Application started. Press Ctrl+C to shut down.
+INFO  09:09:04 Hosting environment: Development
+INFO  09:09:04 Hosting environment: Development
+INFO  09:09:04 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  09:09:04 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  09:27:11 Application started. Press Ctrl+C to shut down.
+INFO  09:27:11 Application started. Press Ctrl+C to shut down.
+INFO  09:27:11 Hosting environment: Development
+INFO  09:27:11 Hosting environment: Development
+INFO  09:27:11 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  09:27:11 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  09:31:23 Application started. Press Ctrl+C to shut down.
+INFO  09:31:23 Application started. Press Ctrl+C to shut down.
+INFO  09:31:23 Hosting environment: Development
+INFO  09:31:23 Hosting environment: Development
+INFO  09:31:23 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  09:31:23 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  09:31:28 
+INFO  09:32:13 Application started. Press Ctrl+C to shut down.
+INFO  09:32:13 Application started. Press Ctrl+C to shut down.
+INFO  09:32:13 Hosting environment: Development
+INFO  09:32:13 Hosting environment: Development
+INFO  09:32:13 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  09:32:13 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  09:32:37 
+INFO  09:34:27 
+INFO  09:38:05 
+INFO  09:38:29 complete  processing method invoked
+INFO  09:38:40 complete  processing method invoked
+INFO  09:41:11 Application started. Press Ctrl+C to shut down.
+INFO  09:41:11 Application started. Press Ctrl+C to shut down.
+INFO  09:41:11 Hosting environment: Development
+INFO  09:41:11 Hosting environment: Development
+INFO  09:41:11 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  09:41:11 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  09:41:18 
+INFO  09:42:58 complete  processing method invoked
+INFO  09:50:01 
+INFO  09:50:50 complete  processing method invoked
+INFO  11:06:53 Application started. Press Ctrl+C to shut down.
+INFO  11:06:53 Application started. Press Ctrl+C to shut down.
+INFO  11:06:53 Hosting environment: Development
+INFO  11:06:53 Hosting environment: Development
+INFO  11:06:53 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  11:06:53 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  11:07:30 
+INFO  11:07:56 complete  processing method invoked
+INFO  11:09:28 
+INFO  11:09:37 complete  processing method invoked
+INFO  11:10:51 
+INFO  11:11:00 complete  processing method invoked
+INFO  11:12:59 
+INFO  11:13:13 complete  processing method invoked
+INFO  11:15:04 
+INFO  11:15:13 complete  processing method invoked
+INFO  11:20:16 
+INFO  11:20:26 complete  processing method invoked
+INFO  11:24:20 
+INFO  11:25:09 
+INFO  11:26:10 
+INFO  11:26:25 
+INFO  11:27:29 
+INFO  11:27:54 
+INFO  11:29:44 
+INFO  11:30:47 
+INFO  11:30:49 
+INFO  11:31:06 
+INFO  11:32:39 
+INFO  11:33:45 
+INFO  11:34:45 
+INFO  11:36:05 
+INFO  11:38:48 Application started. Press Ctrl+C to shut down.
+INFO  11:38:48 Application started. Press Ctrl+C to shut down.
+INFO  11:38:48 Hosting environment: Development
+INFO  11:38:48 Hosting environment: Development
+INFO  11:38:48 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  11:38:48 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  11:39:11 
+INFO  11:39:48 
+INFO  11:40:37 Application started. Press Ctrl+C to shut down.
+INFO  11:40:37 Application started. Press Ctrl+C to shut down.
+INFO  11:40:37 Hosting environment: Development
+INFO  11:40:37 Hosting environment: Development
+INFO  11:40:37 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  11:40:37 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  11:40:55 
+INFO  11:44:39 Application started. Press Ctrl+C to shut down.
+INFO  11:44:39 Application started. Press Ctrl+C to shut down.
+INFO  11:44:39 Hosting environment: Development
+INFO  11:44:39 Hosting environment: Development
+INFO  11:44:39 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  11:44:39 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  11:44:54 
+INFO  11:46:13 complete  processing method invoked
+INFO  11:54:34 
+INFO  11:54:44 complete  processing method invoked
+INFO  11:56:13 
+INFO  11:56:22 complete  processing method invoked
+INFO  11:56:52 complete  processing method invoked
+INFO  11:56:55 complete  processing method invoked
+INFO  02:56:20 Application started. Press Ctrl+C to shut down.
+INFO  02:56:20 Application started. Press Ctrl+C to shut down.
+INFO  02:56:20 Hosting environment: Development
+INFO  02:56:20 Hosting environment: Development
+INFO  02:56:20 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  02:56:20 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  02:56:27 
+INFO  02:56:32 
+INFO  02:56:53 
+INFO  02:57:09 
+INFO  02:59:37 
+INFO  03:00:14 complete  processing method invoked
+INFO  03:02:00 
+INFO  03:02:15 complete  processing method invoked
+INFO  03:04:16 
+INFO  03:04:29 complete  processing method invoked
+INFO  03:06:08 
+INFO  03:06:26 complete  processing method invoked
+INFO  03:06:45 
+INFO  03:10:05 
+INFO  03:10:26 complete  processing method invoked
+INFO  03:10:30 
+INFO  03:12:57 
+INFO  03:14:02 Application started. Press Ctrl+C to shut down.
+INFO  03:14:02 Application started. Press Ctrl+C to shut down.
+INFO  03:14:02 Hosting environment: Development
+INFO  03:14:02 Hosting environment: Development
+INFO  03:14:02 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  03:14:02 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  03:14:16 
+INFO  03:14:58 complete  processing method invoked
+INFO  03:18:55 
+INFO  03:20:03 
+INFO  03:20:27 complete  processing method invoked
+INFO  03:22:49 
+INFO  03:29:51 Application started. Press Ctrl+C to shut down.
+INFO  03:29:51 Application started. Press Ctrl+C to shut down.
+INFO  03:29:51 Hosting environment: Development
+INFO  03:29:51 Hosting environment: Development
+INFO  03:29:51 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  03:29:51 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  03:29:57 
+INFO  03:31:31 Application started. Press Ctrl+C to shut down.
+INFO  03:31:31 Application started. Press Ctrl+C to shut down.
+INFO  03:31:31 Hosting environment: Development
+INFO  03:31:31 Hosting environment: Development
+INFO  03:31:31 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  03:31:31 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  03:31:40 
+INFO  03:32:14 
+INFO  03:33:15 Application started. Press Ctrl+C to shut down.
+INFO  03:33:15 Application started. Press Ctrl+C to shut down.
+INFO  03:33:15 Hosting environment: Development
+INFO  03:33:15 Hosting environment: Development
+INFO  03:33:15 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  03:33:15 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  03:33:32 
+INFO  03:34:10 complete  processing method invoked
+INFO  03:36:21 
+INFO  03:37:15 complete  processing method invoked
+INFO  03:37:24 complete  processing method invoked
+INFO  03:41:22 
+INFO  03:41:35 complete  processing method invoked
+INFO  03:42:58 
+INFO  03:43:08 complete  processing method invoked
+INFO  03:43:48 
+INFO  03:44:01 complete  processing method invoked
+INFO  03:49:36 
+INFO  03:49:47 complete  processing method invoked
+INFO  03:58:25 
+INFO  03:58:41 complete  processing method invoked
+INFO  04:00:21 
+INFO  04:00:32 complete  processing method invoked
+INFO  04:02:42 
+INFO  04:03:16 
+INFO  04:03:27 complete  processing method invoked
+INFO  04:03:36 complete  processing method invoked
+INFO  04:05:12 
+INFO  04:05:28 complete  processing method invoked
+INFO  04:05:33 complete  processing method invoked
+INFO  04:06:13 
+INFO  04:06:23 complete  processing method invoked
+INFO  04:06:29 complete  processing method invoked
+INFO  04:06:40 complete  processing method invoked
+INFO  04:06:53 complete  processing method invoked
+INFO  04:07:08 complete  processing method invoked
+INFO  06:53:21 Application started. Press Ctrl+C to shut down.
+INFO  06:53:21 Application started. Press Ctrl+C to shut down.
+INFO  06:53:21 Hosting environment: Development
+INFO  06:53:21 Hosting environment: Development
+INFO  06:53:21 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  06:53:21 Content root path: D:\Product Engginering\Return Mgmt Project\Final API's\ComponentProcessingAPI\ComponentProcessingAPIProject (1)\ComponentProcessingAPIProject
+INFO  06:54:00 
+INFO  06:55:12 complete  processing method invoked
+INFO  06:56:23 complete  processing method invoked
+INFO  06:58:56 
+INFO  06:59:10 complete  processing method invoked
+INFO  06:59:18 complete  processing method invoked

@@ -1,0 +1,461 @@
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\appsettings.Development.json
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\appsettings.json
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.exe
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.deps.json
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.runtimeconfig.json
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.runtimeconfig.dev.json
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ref\ReturnMgmtClientProject.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.pdb
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.Views.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.Views.pdb
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Humanizer.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.AssemblyInfoInputs.cache
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.AssemblyInfo.cs
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.csproj.CoreCompileInputs.cache
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.RazorAssemblyInfo.cache
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.RazorAssemblyInfo.cs
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\staticwebassets\ReturnMgmtClientProject.StaticWebAssets.Manifest.cache
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\staticwebassets\ReturnMgmtClientProject.StaticWebAssets.xml
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\scopedcss\bundle\ReturnMgmtClientProject.styles.css
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.TagHelpers.input.cache
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.TagHelpers.output.cache
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.RazorCoreGenerate.cache
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.RazorTargetAssemblyInfo.cache
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.RazorTargetAssemblyInfo.cs
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.Views.pdb
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.csproj.CopyComplete
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ref\ReturnMgmtClientProject.dll
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.pdb
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.genruntimeconfig.cache
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\Login\Login.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\User\ProcessRequest.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\User\ProcessResponse.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\User\CompleteProcess.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\User\Payment.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\User\Success.cshtml.g.cs
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\appsettings.Development.json
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\appsettings.json
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.exe
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.deps.json
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.runtimeconfig.json
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.runtimeconfig.dev.json
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ref\ReturnMgmtClientProject.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.pdb
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.Views.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.Views.pdb
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Humanizer.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.csprojAssemblyReference.cache
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.AssemblyInfoInputs.cache
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.AssemblyInfo.cs
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.csproj.CoreCompileInputs.cache
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.MvcApplicationPartsAssemblyInfo.cache
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.RazorAssemblyInfo.cache
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.RazorAssemblyInfo.cs
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\staticwebassets\ReturnMgmtClientProject.StaticWebAssets.Manifest.cache
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\staticwebassets\ReturnMgmtClientProject.StaticWebAssets.xml
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\scopedcss\bundle\ReturnMgmtClientProject.styles.css
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.TagHelpers.input.cache
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.TagHelpers.output.cache
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.RazorCoreGenerate.cache
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\Login\Login.cshtml.g.cs
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\User\CompleteProcess.cshtml.g.cs
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\User\Payment.cshtml.g.cs
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\User\ProcessRequest.cshtml.g.cs
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\User\ProcessResponse.cshtml.g.cs
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\User\Success.cshtml.g.cs
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.RazorTargetAssemblyInfo.cache
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.RazorTargetAssemblyInfo.cs
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.Views.pdb
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.csproj.CopyComplete
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ref\ReturnMgmtClientProject.dll
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.pdb
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.genruntimeconfig.cache
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\User\IndexWelcome.cshtml.g.cs
+D:\ReturnManagementSystem\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\User\IndexWelcom.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\appsettings.Development.json
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\appsettings.json
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.exe
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.deps.json
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.runtimeconfig.json
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.runtimeconfig.dev.json
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ref\ReturnMgmtClientProject.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.pdb
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.Views.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ReturnMgmtClientProject.Views.pdb
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Humanizer.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.csprojAssemblyReference.cache
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.AssemblyInfoInputs.cache
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.AssemblyInfo.cs
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.csproj.CoreCompileInputs.cache
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.RazorAssemblyInfo.cache
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.RazorAssemblyInfo.cs
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\staticwebassets\ReturnMgmtClientProject.StaticWebAssets.Manifest.cache
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\staticwebassets\ReturnMgmtClientProject.StaticWebAssets.xml
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\scopedcss\bundle\ReturnMgmtClientProject.styles.css
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.TagHelpers.input.cache
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.TagHelpers.output.cache
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.RazorCoreGenerate.cache
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\Login\Login.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\User\CompleteProcess.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\User\IndexWelcom.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\User\Payment.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\User\ProcessRequest.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\User\ProcessResponse.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\User\Success.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.RazorTargetAssemblyInfo.cache
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.RazorTargetAssemblyInfo.cs
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.Views.pdb
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.csproj.CopyComplete
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ref\ReturnMgmtClientProject.dll
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.pdb
+D:\Product Engginering\Return Mgmt Project\UIReturnManagement\New folder\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.genruntimeconfig.cache
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\User\IndexWelcom.cshtml.g.cs
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\ReturnMgmtClientProject.csprojAssemblyReference.cache
+D:\Product Engginering\Return Mgmt Project\Client\ReturnMgmtClientSolution\ReturnMgmtClientProject\obj\Debug\net5.0\Razor\Views\User\Invalid.cshtml.g.cs
